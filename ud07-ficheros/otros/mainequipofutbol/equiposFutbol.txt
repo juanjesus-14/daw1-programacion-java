@@ -1,0 +1,5 @@
+1;Chupe;Delantero;9;21
+2;Adrián Niño;Delantero/Extremo;21;22
+3;David Larrubia;Centrocampista;10;23
+4;Dani Lorenzo;Centrocampista;22;21
+5;Julen Lobete;Extremo;24;24
