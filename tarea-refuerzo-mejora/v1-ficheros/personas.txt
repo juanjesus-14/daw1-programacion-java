@@ -1,0 +1,3 @@
+12345678A;Juan;Perez;juan@gmail.com;666111222;Calle Sol
+987654321B;Lucia;Gomez;lucia@gmail.com;666333444;Avenida Luna
+11111111A;Pepe;Gil;pepe@gmail.com;666777999;Avenida Sol
