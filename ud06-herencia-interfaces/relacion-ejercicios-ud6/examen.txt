@@ -1,0 +1,8 @@
+herencia	
+abstracts
+interface 
+implements
+extends
+fechas(DATE)
+
+
