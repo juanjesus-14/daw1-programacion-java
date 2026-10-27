@@ -1,0 +1,5 @@
+1;Iker Casillas;Portero;1;43
+2;Sergio Ramos;Defensa;4;37
+3;Xavi Hernandez;Centrocampista;8;44
+4;Andres Iniesta;Centrocampista;6;40
+5;David Villa;Delantero;7;42

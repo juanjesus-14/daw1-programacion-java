@@ -1,0 +1,10 @@
+CREATE DATABASE equipo_futbol;
+USE equipo_futbol;
+
+CREATE TABLE jugadores (
+    id       INT PRIMARY KEY,
+    nombre   VARCHAR(100),
+    posicion VARCHAR(50),
+    dorsal   INT,
+    edad     INT
+);
