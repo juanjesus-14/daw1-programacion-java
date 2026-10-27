@@ -1,0 +1,4 @@
+C01;Informática;1;Portatil;899.99;HP
+C01;Informática;2;Ratón;25.50;Logitech
+C02;Telefonía;3;Iphone;1200;Apple
+C02;Telefonía;4;Samsung S24;999;Samsung

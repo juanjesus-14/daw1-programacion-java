@@ -1,0 +1,6 @@
+Juan;Perez;12345678A;juan@gmail.com;666111222;Calle Sol
+Lucia;Gomez;987654321B;lucia@gmail.com;666333444;Avenida Luna
+Pepe;Gil;11111111A;pepe@gmail.com;666777999;Avenida Sol
+Pepe;Gil;11111111A;pepe@gmail.com;666777990;Calle 1
+Pepe;Gil;11111111A;pepe@gmail.com;666777999;Avenida
+

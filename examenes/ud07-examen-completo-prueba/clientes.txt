@@ -1,0 +1,3 @@
+12345678A;Ana;Gomez;ana@gmail.com;666111222
+87654321B;Luis;Perez;luis@gmail.com;666333444
+45678912C;Marta;Lopez;marta@gmail.com;6665556661;q;q;q;1

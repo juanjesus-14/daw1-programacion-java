@@ -1,0 +1,5 @@
+12345678A;Rocky;3;Pastor Aleman
+12345678A;Luna;2;Siames
+987654321B;Thor;5;Labrador
+987654321B;Thor;5;Pastor Belga
+12345676A;Rocky;3;Pastor Aleman

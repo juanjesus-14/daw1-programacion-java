@@ -1,0 +1,3 @@
+11122233A;Juan;Pérez;juan@gmail.com;Hombre;1985-10-20;Calle Sol 1;600111111;SS001
+22233344B;Ana;López;ana@gmail.com;Mujer;1990-05-12;Calle Luna 5;600222222;SS002
+12345678A;Pepe;López;pepe@gmail.com;Hombre;1995-06-12;Calle Sol 6;600333444;SS003

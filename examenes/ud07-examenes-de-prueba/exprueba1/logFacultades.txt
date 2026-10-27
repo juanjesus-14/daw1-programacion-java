@@ -1,0 +1,14 @@
+directorio;nbproject
+fichero;build.xml
+directorio;src
+fichero;manifest.mf
+directorio;test
+directorio;build
+directorio;nbproject
+fichero;build.xml
+directorio;src
+fichero;manifest.mf
+directorio;test
+directorio;build
+fichero;logFacultades.txt
+fichero;profesores6-26.txt

@@ -1,0 +1,4 @@
+D01;Informática;1;12345678A;Ana;Gomez;ana@gmail.com;2023-02-10
+D01;Informática;2;87654321B;Luis;Perez;luis@gmail.com;2022-11-15
+D02;RRHH;3;45678912C;Marta;Lopez;marta@gmail.com;2021-06-01
+D02;RRHH;4;74185296D;Pedro;Garcia;pedro@gmail.com;2024-01-20

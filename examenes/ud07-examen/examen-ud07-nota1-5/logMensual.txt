@@ -1,0 +1,9 @@
+DIR; prueba23
+DIR; ExamenEjercicio1
+DIR; ExamenEjercico2
+DIR; Origen
+FICH; logMensual.txt
+DIR; ExamenEjercicio1
+DIR; ExamenEjercico2
+DIR; Origen
+FICH; logMensual.txt

@@ -1,0 +1,8 @@
+directorio;nbproject
+fichero;build.xml
+directorio;src
+fichero;manifest.mf
+fichero;empleados5-26.txt
+fichero;logMensual.txt
+directorio;test
+directorio;build

@@ -1,0 +1,4 @@
+SS001;PR001;2025-01-10;Analítica;datos de la analítica todos correctos
+SS001;PR002;2025-02-15;Radiografía;datos de la raciografía todos correcto.
+SS002;PR003;2025-03-20;Resonancia;N/A
+12;3;2020-02-02;fdgfsegs;ghdhsdh

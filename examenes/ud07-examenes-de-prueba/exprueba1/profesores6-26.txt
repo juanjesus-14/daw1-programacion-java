@@ -1,0 +1,4 @@
+F01;Ingenieria;1;11111111A;Marta;Ruiz;marta.ruiz@uni.es;2020-09-01
+F01;Ingenieria;2;22222222B;Carlos;Diaz;carlos.diaz@uni.es;2019-03-15
+F02;Empresariales;3;33333333C;Elena;Torres;elena.torres@uni.es;2021-10-05
+F02;Empresariales;4;44444444D;Javier;Moreno;javier.moreno@uni.es;2022-01-20

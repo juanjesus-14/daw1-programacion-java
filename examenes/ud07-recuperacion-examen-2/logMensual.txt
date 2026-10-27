@@ -1,0 +1,17 @@
+D;Ex2_Ficheros;D:\workspace\programacion\UD7\RECUPERACION\Examen2\Ex2_Ficheros
+D;Ex2_Ficheros;D:\workspace\programacion\UD7\RECUPERACION\Examen2\Ex2_Ficheros
+F;logMensual.txt;D:\workspace\programacion\UD7\RECUPERACION\Examen2\logMensual.txt
+F;DAW_PROG_25-26__t2p2 (1).pdf;D:\workspace\programacion\UD7\RECUPERACION\Examen1\DAW_PROG_25-26__t2p2 (1).pdf
+D;Examen1-ej1;D:\workspace\programacion\UD7\RECUPERACION\Examen1\Examen1-ej1
+D;Examen1-ej2;D:\workspace\programacion\UD7\RECUPERACION\Examen1\Examen1-ej2
+D;Ex1_Ficheros_SARA;D:\workspace\programacion\UD7\RECUPERACION\Examen1\Ex1_Ficheros_SARA
+F;6-2026.txt;D:\workspace\programacion\UD7\RECUPERACION\Examen1\6-2026.txt
+F;logMensual.txt;D:\workspace\programacion\UD7\RECUPERACION\Examen1\logMensual.txt
+D;Ex1_Ficheros_Profe;D:\workspace\programacion\UD7\RECUPERACION\Examen1\Ex1_Ficheros_Profe
+F;DAW_PROG_25-26__t2p2 (1).pdf;D:\workspace\programacion\UD7\RECUPERACION\Examen1\DAW_PROG_25-26__t2p2 (1).pdf
+D;Examen1-ej1;D:\workspace\programacion\UD7\RECUPERACION\Examen1\Examen1-ej1
+D;Examen1-ej2;D:\workspace\programacion\UD7\RECUPERACION\Examen1\Examen1-ej2
+D;Ex1_Ficheros_SARA;D:\workspace\programacion\UD7\RECUPERACION\Examen1\Ex1_Ficheros_SARA
+F;6-2026.txt;D:\workspace\programacion\UD7\RECUPERACION\Examen1\6-2026.txt
+F;logMensual.txt;D:\workspace\programacion\UD7\RECUPERACION\Examen1\logMensual.txt
+D;Ex1_Ficheros_Profe;D:\workspace\programacion\UD7\RECUPERACION\Examen1\Ex1_Ficheros_Profe
