@@ -1,0 +1,31 @@
+# Ant / NetBeans
+build/
+dist/
+nbproject/private/
+nb-configuration.xml
+nbactions.xml
+
+# Maven
+target/
+
+# Otros IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Compilados y empaquetados
+*.class
+*.jar
+*.war
+
+# Configuración local / secretos
+.env
+*.local.properties
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
